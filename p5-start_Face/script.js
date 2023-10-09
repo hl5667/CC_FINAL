@@ -1,6 +1,5 @@
 //Make Class for Eyes, Ears, face, nose, neck, and hair.
 
-
 class EYES {
   constructor() {
     this.x = 300;
