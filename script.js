@@ -169,7 +169,7 @@ function signName() {
     fill('818284'); 
     textFont(myFont1, 20);
     textAlign(RIGHT, BOTTOM);
-    text("Your Name  " + year() + "/" + month() + "/" + day(), width - 40, height - 40);
+    text(Name + "  " +Year + "/" + Month + "/" + Day, width - 40, height - 40);
   }
 }
 
