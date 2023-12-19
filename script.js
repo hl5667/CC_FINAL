@@ -1,7 +1,7 @@
 let Name = window.prompt ("What's your name?")
 let Year = window.prompt ("Which year did you born? From 1949-2049")
-let Month = window.prompt ("Which month did you born in? Type in Number")
-let Day = window.prompt ("and which day?")
+let Month = window.prompt ("Which month did you born in? Type in number from 1 to 12")
+let Day = window.prompt ("and what's the date? From 1 to 31")
 // let Name = "Pikachu"
 // let Year = 1998
 // let Month = 10
